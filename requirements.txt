@@ -1,0 +1,21 @@
+mathplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+requests
+fastapi
+uvicorn
+
+# scipy
+# tensorflow
+# keras
+# pytorch
+# transformers
+# nltk
+# xgboost
+
+# spacy
+# beautifulsoup4
+
+# statsmodels
