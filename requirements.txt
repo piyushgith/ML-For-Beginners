@@ -6,6 +6,7 @@ seaborn
 requests
 fastapi
 uvicorn
+imblearn
 
 # scipy
 # tensorflow
